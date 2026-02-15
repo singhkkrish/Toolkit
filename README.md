@@ -6,8 +6,7 @@ It provides an interactive graphical interface for applying various image proces
 ---
 
 ## 👨‍💻 Developed By
-**Krish Singh [23U03001]**  
-**Aakarsh Singh [23U03011]**  
+**Krish Singh**  
 Department of Information Technology  
 (For Academic Project Submission)
 
